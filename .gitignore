@@ -1,0 +1,8 @@
+# Pastas e arquivos desnecessários
+data/
+notebooks/
+__pycache__/
+*.pyc
+.DS_Store
+venv/
+*.csv
